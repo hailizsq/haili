@@ -1,7 +1,15 @@
 {
-    "urls": [
+    "urls": [      
+        {
+            "url": "http://饭太硬.top/tv",
+            "name": "🍚饭太硬"
+        },
+        {
+            "url": "https://ghproxy.net/raw.githubusercontent.com/qirenzhidao/tvbox18/main/fan.json",
+            "name": "🍚饭太硬qrzd"
+        },
 {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
             "name": "🌜月光宝盒guot55"
         },
         {
@@ -47,14 +55,6 @@
         {
             "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "☁高天流云JS"
-        },
-        {
-            "url": "http://饭太硬.top/tv",
-            "name": "🍚饭太硬"
-        },
-        {
-            "url": "https://ghproxy.net/raw.githubusercontent.com/qirenzhidao/tvbox18/main/fan.json",
-            "name": "🍚饭太硬qrzd"
         },
 {
             "url": "https://tvbox.cainisi.cf",
