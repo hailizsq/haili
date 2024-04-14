@@ -1,10 +1,6 @@
 {
 "storeHouse": [
 {"sourceName":"🌹海里","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/hailizsq/haili/main/hlduoxian.json"},
-{"sourceName":"🍭多多优选仓","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/a.txt?ref=main"},
-{"sourceName":"🍭多多公众仓","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/b.txt?ref=main"},
-{"sourceName":"🍭多多聚合仓","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/c.txt?ref=main"},
-{"sourceName":"🍭多多预备仓","sourceUrl":"https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/d.txt?ref=main"},
 {"sourceName":"🌙月光","sourceUrl":"https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/ysdc.json"},
 {"sourceName":"🌙月光优选仓","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/dc2.json"},
 {"sourceName":"🌙月光大佬","sourceUrl":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/d.txt"},
