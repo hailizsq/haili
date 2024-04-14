@@ -22,7 +22,7 @@
     //首页推荐片单链接补后缀
     "首页片单链接加后缀": "",
     "分类起始页码": "1",
-    "分类链接": "https://www.yjys.me/s/{cateId}/{catePg}?type={class}&year={year}&order={by}&area={area}",
+    "分类链接": "https://www.yjys.me/s/{cateId}/{catePg}?type={class}&area={area}&year={year}&order={by}",
     "分类名称": "不限&动作&爱情&喜剧&科幻&恐怖&战争&武侠&魔幻&剧情&动画&惊悚&3D&灾难&悬疑&警匪&文艺&青春&冒险&犯罪&纪录&古装&奇幻&国语&综艺&历史&运动&原创压制&美剧&韩剧&国产电视剧&日剧&英剧&德剧&俄剧&巴剧&加剧&西剧&意大利剧&泰剧&港台剧&法剧&澳剧",
     "分类名称替换词": "all&dongzuo&aiqing&xiju&kehuan&kongbu&zhanzheng&wuxia&mohuan&juqing&donghua&jingsong&3D&zainan&xuanyi&jingfei&wenyi&qingchun&maoxian&fanzui&jilu&guzhuang&qihuan&guoyu&zongyi&lishi&yundong&yuanchuang&meiju&hanju&guoju&riju&yingju&deju&eju&baju&jiaju&spanish&yidaliju&taiju&gangtaiju&faju&aoju",
     //"筛选数据": {},
@@ -32,7 +32,7 @@
     "筛选子分类替换词": "",
     //{class}
     "筛选类型名称": "电影&电视剧",
-    "筛选类型替换词": "&0&1",
+    "筛选类型替换词": "0&1",
     //{area}
     "筛选地区名称": "中国大陆&中国香港&中国台湾&美国&英国&日本&韩国&法国&印度&德国&西班牙&意大利&澳大利亚&比利时&瑞典&荷兰&丹麦&加拿大&俄罗斯",
     "筛选地区替换词": "中国大陆&中国香港&中国台湾&美国&英国&日本&韩国&法国&印度&德国&西班牙&意大利&澳大利亚&比利时&瑞典&荷兰&丹麦&加拿大&俄罗斯",
