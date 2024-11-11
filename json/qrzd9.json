@@ -272,7 +272,7 @@
       "key": "hanime1.me/",
       "name": "成人01",
       "type": 1,
-      "api": "https://hanime1.me/",
+      "api": "https://hanime1.me/search?genre=%E8%A3%8F%E7%95%AA",
       "searchable": 1
     },
     {
