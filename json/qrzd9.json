@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/hailizsq/haili/main/jar/fm_push.jar",
+  "spider": "https://raw.githubusercontent.com/hailizsq/haili/main/jar/fm_push.jar;md5;5d1ab45ff233a49e9bc9b9a1554b38a9",
   "lives": [
     {
       "name": "adult_2023",
